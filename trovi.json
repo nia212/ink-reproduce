@@ -1,0 +1,15 @@
+{
+  "name": "ink-reproduce",
+  "description": "Reproducebility of INK artifact experiment results",
+  "authors": [
+    {
+      "name": "Nia Nur Hidayaturrohmah",
+      "affiliation": "Universitas Negeri Semarang"
+    }
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/nia212/ink-reproduce",
+  "workflow": {
+    "platform": "chameleon"
+  }
+}
