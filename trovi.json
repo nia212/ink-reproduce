@@ -1,17 +1,23 @@
 {
-  "name": "ink-reproduce",
-  "description": "Reproduction of INK artifact experiment results",
-  "version": "1.0",
+  "name": "INK Reproduction",
+  "description": "Reproduction of the INK artifact experiment results on Chameleon Cloud via Trovi.",
+  "version": "1.0.0",
+  "license": "MIT",
   "authors": [
     {
-      "name": "Nia Nur Hidayaturrohmah",
-      "affiliation": "Universitas Negeri Semarang"
+      "name": "Nia Nur H",
+      "affiliation": "Independent reproduction on Chameleon Cloud",
+      "email": ""
     }
   ],
-  "license": "MIT",
-  "repository": "https://github.com/nia212/ink-reproduce",
-  "keywords": ["reproducibility", "artifact", "ink", "evaluation"],
-  "workflow": {
-    "platform": "chameleon"
+  "keywords": [
+    "reproducibility",
+    "ink",
+    "artifact",
+    "chameleon cloud",
+    "trovi"
+  ],
+  "links": {
+    "source": "https://github.com/nia212/ink-reproduce"
   }
 }
